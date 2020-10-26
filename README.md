@@ -9,3 +9,11 @@
 ## Bot responds to the user based on the input given by the user appropriately.
 ## If user wishes to end the chat,If we enter End,it will go to end page.
 ## After that if we click on go to home link,finally it returns home page.
+
+# Video
+[![IMAGE ALT TEXT HERE](https://i2.wp.com/jobbot.ai/wp-content/uploads/2017/05/jobbot-wide-primary.png?fit=600%2C221)](https://youtu.be/OHeXbzuHWV0)
+
+# Reference Links :
+https://www.haptik.ai/blog/chatbots-in-banking-examples-best-usecases-future/
+
+https://www.tutorialsteacher.com/python/random-module
