@@ -1,0 +1,18 @@
+/*Styling the about me page*/
+html{
+	height:100%;
+	background:linear-gradient(to bottom right,#008080,#00b3b3,#00e6e6,#1affff,#66ffff,#b3ffff);
+}
+.icon img{
+	height:60px;
+	margin:10px 0 0 20px;
+}
+.icon p{
+	margin:-40px 0 0 90px;
+	color:white;
+}
+.description{
+	line-height:1.8;
+	font-size:0.8cm;
+	transform:translate(400px,80px);
+}
