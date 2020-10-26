@@ -12,8 +12,3 @@
 
 # Video
 [![IMAGE ALT TEXT HERE](https://i2.wp.com/jobbot.ai/wp-content/uploads/2017/05/jobbot-wide-primary.png?fit=600%2C221)](https://youtu.be/OHeXbzuHWV0)
-
-# Reference Links :
-https://www.haptik.ai/blog/chatbots-in-banking-examples-best-usecases-future/
-
-https://www.tutorialsteacher.com/python/random-module
